@@ -1,0 +1,25 @@
+{
+  "name": "aerial-chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/HybridSquirrel/aerial-chan.git"
+  },
+  "keywords": [],
+  "author": "HybridSquirrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/HybridSquirrel/aerial-chan/issues"
+  },
+  "homepage": "https://gitlab.com/HybridSquirrel/aerial-chan#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.6"
+  }
+}
